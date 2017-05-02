@@ -1,0 +1,43 @@
+ .recV{
+            background:#00FF00;
+            height: 75px;
+            border: 2px black solid;
+            padding-left: 5px;
+            text-align: center; 
+        }
+        .recM{
+          background:#7C4DFF;
+          height: 20vh;    
+          border: 2px black solid;
+          padding-left: 5px;    
+        }
+        .centrado{
+          text-align: center;
+          margin-top: 20px;
+          font-size: 35px;    
+        }
+        
+        .centrado2{
+          text-align: center;
+          margin-top: 10px;
+          font-size: 20px;    
+        }
+        .recG{
+          background:#CFD8DC;
+          height: 20vh;    
+          border: 2px black solid;
+          padding-left: 5px;
+          text-align: center;
+              
+        }
+        .recA{
+          background:#18FFFF;
+          border: 2px black solid;
+          padding-left: 5px;
+          text-align: center;    
+        }
+         .recN{
+          background:#FF5722;
+          border: 2px black solid;
+          padding-left: 5px;   
+        }

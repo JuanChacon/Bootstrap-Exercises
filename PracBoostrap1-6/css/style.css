@@ -1,0 +1,44 @@
+            body{
+            background-image: url(http://cdn.pcwallart.com/images/pale-yellow-color-wallpaper-1.jpg);
+            }
+            .sty{
+            border: 2px solid black;
+            background-color: darkorchid;
+            font-size: 22px;
+            text-align: center;
+            
+        }
+        footer div{
+            background-color: cornflowerblue;
+            border: 2px dashed black;
+            height: 35px;
+            font-size: 20px;
+              
+        }
+        .but{
+            float:right;
+            display: inline-block;
+        }
+        
+        aside{
+            float: right;
+            margin-top: -250px;
+            margin-right: 45px;
+        }
+        .marg{
+            border: 2px solid black;   
+            height: 350px;
+            font-size: 20px;
+            text-align: center; 
+        }
+        
+        .i{
+            display: inline-block;
+            text-align: center;
+        }
+        .d{
+            display: inline-block;
+            float: right;
+            margin-top: -65px;
+            margin-right:270px;
+        }
